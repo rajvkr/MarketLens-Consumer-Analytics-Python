@@ -1,7 +1,7 @@
 # 📊 MarketLens
 ### Consumer Behavior & Food Service Intelligence
 
-> **Python-based consumer analytics platform for demographics, purchasing behavior, food preferences, sustainability, and customer satisfaction insights.**
+ **Python-based consumer analytics platform for demographics, purchasing behavior, food preferences, sustainability, and customer satisfaction insights.**
 
 ---
 
