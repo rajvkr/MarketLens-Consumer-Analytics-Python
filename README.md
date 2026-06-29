@@ -59,11 +59,11 @@ Analyze consumer survey and food service datasets to uncover behavioral patterns
 
 ## 📸 Analysis Preview
 
-![Analysis 1](Images/MarketLens1.PNG)
-![Analysis 2](Images/MarketLens2.PNG)
-![Analysis 3](Images/MarketLens3.PNG)
-![Analysis 4](Images/MarketLens4.PNG)
-![Analysis 5](Images/MarketLens5.PNG)
-![Analysis 6](Images/MarketLens6.PNG)
-![Analysis 7](Images/MarketLens7.PNG)
-![Analysis 8](Images/MarketLens8.PNG)
+![Analysis 1](Images/Customer_insights-1.PNG)
+![Analysis 2](Images/Customer_insights-2.PNG)
+![Analysis 3](Images/Customer_insights-3.PNG)
+![Analysis 4](Images/Customer_insights-4.PNG)
+![Analysis 5](Images/Customer_insights-5.PNG)
+![Analysis 6](Images/Customer_insights-6.PNG)
+![Analysis 7](Images/Customer_insights-7.PNG)
+![Analysis 8](Images/Customer_insights-8.PNG)
