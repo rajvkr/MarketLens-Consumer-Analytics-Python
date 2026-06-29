@@ -29,8 +29,6 @@ Analyze consumer survey and food service datasets to uncover behavioral patterns
 - 🍽️ New Food & Cuisine Preference Analysis
 - 🌱 Sustainability Preference Analysis
 - 😊 Customer Satisfaction Analysis
-- 📈 Quarterly Cuisine Trend Analysis
-- 🔗 Consumer Survey & Food Service Data Integration
 
 ---
 
